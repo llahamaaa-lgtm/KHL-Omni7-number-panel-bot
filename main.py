@@ -16,7 +16,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 
 BOT_TOKEN = "8966075467:AAE3seQQlC8GOvf2hDolg5EO2fIJOHoMW3o"
 API_KEY = "MURAD_7431E56C7564E91505723DA4"
-BASE_URL = "https://fastxotp.com/@Access/@Bot/3oo9/@public"           # trailing slash ছাড়া বা সহ অটো হ্যান্ডেল হবে
+BASE_URL = "https://nexaotpservice.com/api/v1/"           # trailing slash ছাড়া বা সহ অটো হ্যান্ডেল হবে
 USER_DATA_FILE = "users.json"
 PAID_SMS_FILE = "paid_sms.json"
 STATS_FILE = "user_stats.json"
