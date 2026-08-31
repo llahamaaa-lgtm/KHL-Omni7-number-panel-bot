@@ -15,7 +15,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 # ==================== CONFIG SECTION ====================
 
 BOT_TOKEN = "8966075467:AAE3seQQlC8GOvf2hDolg5EO2fIJOHoMW3o"
-API_KEY = "MURAD_7431E56C7564E91505723DA4"
+API_KEY = "nxa_bd291751fb14615c296330c0e7dee2b908518080"
 BASE_URL = "https://nexaotpservice.com/api/v1/"           # trailing slash ছাড়া বা সহ অটো হ্যান্ডেল হবে
 USER_DATA_FILE = "users.json"
 PAID_SMS_FILE = "paid_sms.json"
